@@ -44,7 +44,7 @@ def in_bolded():
     forward_left_132()
     forward_left_396()
     pensize(1)
-    forward_132()
+    forward_right_132()
 
 #This def function draws all the grid for the sudoku
 def draw_sudoku():
@@ -59,7 +59,7 @@ def draw_sudoku():
     #Outerbox
     pensize(8)
     for i in range(4):
-        forward_396()
+        forward_right_396()
 
     #Inside bolded lines vertically
     in_bolded()
