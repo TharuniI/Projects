@@ -7,5 +7,14 @@
 # Installations
 ## You will need to add the following commands to your Ubunutu terminal to install Java.
 ```bash
-pip install foobar
+sudo apt update
+```
+```bash
+java -version
+```
+## If Java not found, write the following commands
+```bash
+sudo apt install default-jre
+sudo apt install default-jdk
+sudo apt update
 ```
