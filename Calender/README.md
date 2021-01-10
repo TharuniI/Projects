@@ -1,2 +1,11 @@
 # Text-Based Calendar 
-## This application allows you to enter any year and this program will diaplay the calender for that year, or you can enter any year and month and it will give you the calendar for that specific month in any particular year
+## This application displays calendars.
+
+# Description 
+## This program asks for user input, the first one being any desired year they wish to see displayed, and the second being any specifc month and year. Based on what the user inputs, there will be a compiler-based output that will display either one full year or one month in a calender stlye format. It was createed on Atom and executed on Ubunutu Virtual Machine.  
+
+# Installations
+## You will need to add the following commands to your Ubunutu terminal to install Java.
+```bash
+pip install foobar
+```
