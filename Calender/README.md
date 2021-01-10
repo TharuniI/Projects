@@ -17,6 +17,7 @@ java -version
 sudo apt install default-jre
 sudo apt install default-jdk
 sudo apt update
+sudo apt-get install openjdk-7-jdk
 ```
 
 # Usage
