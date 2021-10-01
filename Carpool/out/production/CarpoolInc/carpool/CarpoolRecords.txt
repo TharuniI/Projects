@@ -1,0 +1,1 @@
+userName, [homeIntersection1, homeIntersection2], [placeIntersection1, placeIntersection2], [days, needed, 0, or, 1], [startTime, endTme], driverUserName
